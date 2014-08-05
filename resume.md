@@ -2,7 +2,7 @@
 ---------------------------------------
 * 姓名:汪洋
 * 学校:中国科学院信息工程研究所
-* 邮箱:wangyang@iie.ac.cn
+* 邮箱:wy315700#163.com
 * 个人主页:http://www.tianwaihome.com/
 * Github主页:https://github.com/wy315700
 
